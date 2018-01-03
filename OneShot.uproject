@@ -19,6 +19,16 @@
 			"Name": "SubsystemConfigurator",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/5eb6d67c19e24abb9e9cb8b284ac9493"
+		},
+		{
+			"Name": "PhysicsGetUpBlend",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/dfe572bc6c9849059bb77c12e1b5dc1d"
+		},
+		{
+			"Name": "Substance",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/2f6439c2f9584f49809d9b13b16c2ba4"
 		}
 	]
 }
